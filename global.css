@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-orbitron: Orbitron;
+
+  /* font sizes */
+  --font-size-3xl: 22px;
+  --font-size-44xl: 63px;
+  --font-size-34xl: 53px;
+
+  /* Colors */
+  --color-white: #fff;
+}

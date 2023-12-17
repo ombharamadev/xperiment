@@ -1,0 +1,172 @@
+.xperiment-icon {
+  position: absolute;
+  top: 53px;
+  left: 71px;
+  width: 191px;
+  height: 60.4px;
+  object-fit: cover;
+}
+.about-us,
+.contact-us,
+.home {
+  position: absolute;
+  top: 85px;
+  right: 458px;
+  display: inline-block;
+  width: 164px;
+  height: 28px;
+}
+.about-us,
+.contact-us {
+  top: 86px;
+  right: 286px;
+  width: 186px;
+  height: 29px;
+}
+.contact-us {
+  right: 94px;
+  width: 182px;
+  height: 34px;
+}
+.wrapper-ellipse-1-child {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  transform: scale(1.059);
+}
+.wrapper-ellipse-1 {
+  position: absolute;
+  top: -70px;
+  left: -81px;
+  width: 230px;
+  height: 204px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.check-hd-removebg-1-icon {
+  position: absolute;
+  top: -10px;
+  left: -256px;
+  width: 1634px;
+  height: 1036px;
+  object-fit: cover;
+}
+.xperimentcloud-integrates-neu {
+  position: absolute;
+  top: 270px;
+  right: 122px;
+  font-size: 27px;
+  text-align: center;
+  display: inline-block;
+  width: 450px;
+  height: 238px;
+}
+.our-technology1 {
+  margin: 0;
+}
+.deep-learning,
+.our-technology {
+  position: absolute;
+  top: 1230px;
+  left: calc(50% - 352px);
+  font-size: var(--font-size-44xl);
+  display: inline-block;
+  width: 736px;
+  height: 62px;
+}
+.deep-learning {
+  top: 1534px;
+  left: calc(50% - 570px);
+  font-size: var(--font-size-34xl);
+  width: 464px;
+  height: 94px;
+}
+.about-us1,
+.computer-vision,
+.neural-networks,
+.quantum-computing {
+  position: absolute;
+  top: 1534px;
+  left: calc(50% + 76px);
+  font-size: var(--font-size-34xl);
+}
+.about-us1,
+.computer-vision,
+.quantum-computing {
+  top: 1820px;
+  left: calc(50% - 598px);
+  display: inline-block;
+  width: 552px;
+  height: 108px;
+}
+.about-us1,
+.quantum-computing {
+  top: 1802px;
+  left: calc(50% + 26px);
+  width: 614px;
+}
+.about-us1 {
+  top: 2174px;
+  left: calc(50% - 218px);
+  font-size: var(--font-size-44xl);
+  width: 658px;
+  height: 168px;
+}
+.xperimentcloud-is-a {
+  position: absolute;
+  top: 2458px;
+  left: 31px;
+  letter-spacing: 0.2em;
+  line-height: 30px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 530px;
+  height: 308px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 2315px;
+  right: 0;
+  width: 774px;
+  height: 594px;
+  object-fit: cover;
+}
+.contact-us1,
+.ombharamadevprotonme {
+  position: absolute;
+  top: 3154px;
+  left: calc(50% - 439px);
+  font-size: 64px;
+  letter-spacing: 0.2em;
+  line-height: 30px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 877px;
+  height: 124px;
+}
+.ombharamadevprotonme {
+  top: 3410px;
+  left: calc(50% - 385px);
+  font-size: 35px;
+  width: 736px;
+  height: 76px;
+}
+.main-desktop {
+  position: relative;
+  background-color: #000;
+  width: 100%;
+  height: 3920px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-orbitron);
+}
