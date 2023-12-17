@@ -5,7 +5,7 @@ Xperiment.cloud integrates neuroscience and AI to conduct groundbreaking experim
 
 ---
 # Screen Shot
-[![N|Solid](preview.png)
+![N|Solid](preview.png)
 
 ### Last Update
 17 Dec 2023 [17:30+5:30]
